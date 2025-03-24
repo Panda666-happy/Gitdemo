@@ -2,6 +2,7 @@
 
 <img src="!![20200721182642_resuk.jpeg](20200721182642_resuk.jpeg))
 " alt="我妻善逸形象">
+[02 Jupyter Notebook.docx](https://github.com/user-attachments/files/19429886/02.Jupyter.Notebook.docx)
 
 大家好，我是**我妻善逸**，我的身份是*雷柱*。以下是我的自我介绍：
 
@@ -45,6 +46,9 @@ print(np.array([1, 2, 3]) ** 2)
 
 ### 我最喜欢的环境管理工具是conda
 <img src="![11.png](11.png)" width="800" alt="截图一">
+![11](https://github.com/user-attachments/assets/6a0cc358-d8ef-4fe9-bb61-82bda33cc653)
 
 ### 我可以在IDE上使用我建立的虚拟环境
 <img src="![22.png](22.png)" alt="截图二">
+![22](https://github.com/user-attachments/assets/73b4bf45-75ef-4eae-90ef-9ae7da03cc12)
+
