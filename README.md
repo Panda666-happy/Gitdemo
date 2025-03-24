@@ -2,7 +2,8 @@
 
 <img src="!![20200721182642_resuk.jpeg](20200721182642_resuk.jpeg))
 " alt="我妻善逸形象">
-[02 Jupyter Notebook.docx](https://github.com/user-attachments/files/19429886/02.Jupyter.Notebook.docx)
+![20200721182642_resuk](https://github.com/user-attachments/assets/b904a15b-3c65-47ab-bac2-58b65ec35dbd)
+
 
 大家好，我是**我妻善逸**，我的身份是*雷柱*。以下是我的自我介绍：
 
