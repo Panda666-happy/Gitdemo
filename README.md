@@ -1,5 +1,6 @@
 # 我妻善逸的自我介绍
 
+![20200721182642_resuk](https://github.com/user-attachments/assets/0339d17f-7cb3-4ecc-b3ae-495b4c1dd1c1)
 
 <img src="!![20200721182642_resuk.jpeg](20200721182642_resuk.jpeg))
 " alt="我妻善逸形象">
@@ -46,7 +47,9 @@ print(np.array([1, 2, 3]) ** 2)
 
 ### 我最喜欢的环境管理工具是conda
 <img src="![11.png](11.png)" width="800" alt="截图一">
+![11](https://github.com/user-attachments/assets/d4e706c4-a89b-4483-b66f-7ac59447e0c4)
 
 ### 我可以在IDE上使用我建立的虚拟环境
 <img src="![22.png](22.png)" alt="截图二">
+![22](https://github.com/user-attachments/assets/c621ed6f-2f68-431b-ac2f-20c38dbc57b4)
 
