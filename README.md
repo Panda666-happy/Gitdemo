@@ -53,6 +53,6 @@ print(np.array([1, 2, 3]) ** 2)
 <img src="![22.png](22.png)" alt="截图二">
 ![22](https://github.com/user-attachments/assets/73b4bf45-75ef-4eae-90ef-9ae7da03cc12)
 
-![屏幕截图 2025-03-31 145605](https://github.com/user-attachments/assets/fc585920-d74a-4892-af03-f5020a18fd76)
+
 
 
